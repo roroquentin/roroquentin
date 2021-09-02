@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Hasan. 
 
-## 🔭 I'm studying Mechatronic Systems Engineering at a Turkish-German University and currently working as an IT specialist at Siemens.
+## 🔭 I'm studying Mechatronic Systems Engineering at a Turkish-German University and currently working as an IT specialist at Siemens Turkey.
 ## I’m currently learning on embedded software. 
 
 
