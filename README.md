@@ -1,5 +1,7 @@
 ### Hi there 👋 My name is Hasan. 
 
+###Maker | Embedded Systems and FPGAs Enthusiast
+
 <!--
 **roroquentin/roroquentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
