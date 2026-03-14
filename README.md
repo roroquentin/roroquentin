@@ -3,7 +3,6 @@
 **Istanbul, Türkiye** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hasan-guzelmansur/)
-✉️ [hasan.guzelmansur@gmail.com](mailto:hasan.guzelmansur@gmail.com)
 
 ---
 
@@ -21,3 +20,6 @@ Currently, my work focuses on:
 I am passionate about bridging the gap between **IT and OT security**, leveraging automation through **Python and Bash** to build resilient systems. Beyond my technical responsibilities, I am an active **mentor**, dedicated to supporting career development and professional growth within the software industry.
 
 ---
+
+## Contact
+✉️ [hasan.guzelmansur@gmail.com](mailto:hasan.guzelmansur@gmail.com)
