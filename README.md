@@ -2,43 +2,22 @@
 ### Product and Solution Security Expert
 **Istanbul, Türkiye** 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin](https://www.linkedin.com/in/hasan-guzelmansur/))](https://www.linkedin.com/) 
 — ✉️ [hasan.guzelmansur@gmail.com](mailto:hasan.guzelmansur@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
-I am a **Product and Solution Security Expert** at Siemens Foundational Technology Türkiye. Since joining Siemens in 2020, I have transitioned from an IT Working Student to a specialist in industrial network security and cybersecurity advocacy.
+## About Me
 
-I am passionate about bridging the gap between information and industrial security (IT/OT), supporting global project teams.
+I am a **Product and Solution Security Expert** and **Cybersecurity Ambassador** with a background in **Mechatronic Systems Engineering**. My professional journey within industrial R&D has evolved from technical support and software testing into specialized roles focusing on infrastructure security and international compliance standards.
 
----
+Currently, my work focuses on:
 
-## 🛠 Technical Stack
+* **Product & Solution Security:** Providing expert consultancy for industrial monitoring projects and ensuring alignment with standards such as **IEC 62443** and the **Cyber Resilience Act (CRA)**
+* **Infrastructure & DevOps:** Designing secure architectures and managing complex testing environments using **Linux virtualization** (VMware, KVM) and advanced networking
+* **Vulnerability Management:** Driving **Asset Classification & Protection (ACP)** processes and implementing robust security patching strategies for R&D assets
+* **Global Collaboration:** Supporting cross-functional teams to strengthen industrial security postures
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Security & Compliance** | IEC 62443 (4-1 & 4-2), CRA, Threat Modeling, Risk Assessment, Vulnerability Management, Zero Trust |
-| **Languages** | Python, Bash, YAML, C/C++, Java, SQL |
-| **Virtualization** | VMware (vSphere V8), KVM/QEMU, Libvirt, GNS3, Proxmox |
-| **Infrastructure/DevOps** | Linux (Ubuntu/Debian), Jenkins, GitLab CI/CD, Git |
-| **Networking** | Routers, Switches (SCALANCE), VLAN, VXLAN, TCP/IP |
+I am passionate about bridging the gap between **IT and OT security**, leveraging automation through **Python and Bash** to build resilient systems. Beyond my technical responsibilities, I am an active **mentor**, dedicated to supporting career development and professional growth within the software industry.
 
 ---
-
-## 💼 Professional Experience
-
-### **Siemens Foundational Technology**
-- **Product and Solution Security Expert** | *March 2025 – Present* 
-- **Cybersecurity Support** | *May 2024 – Present* 
-
-### **Siemens Advanta**
-- **R&D DevOps Engineer** | *May 2023 – March 2025* 
-- **R&D Software Test Engineer** | *June 2022 – May 2023*
-
----
-
-## 🎓 Education
-* **B.S. Mechatronic Systems Engineering** – Turkish-German University
-    * *Focus: Smart Systems, IT/OT Infrastructure* 
-* **Associate Degree, Mechatronics** – Dumlupınar University 
