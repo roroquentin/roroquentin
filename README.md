@@ -2,8 +2,8 @@
 ### Product and Solution Security Expert
 **Istanbul, Türkiye** 
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin](https://www.linkedin.com/in/hasan-guzelmansur/))](https://www.linkedin.com/) 
-— ✉️ [hasan.guzelmansur@gmail.com](mailto:hasan.guzelmansur@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hasan-guzelmansur/)
+✉️ [hasan.guzelmansur@gmail.com](mailto:hasan.guzelmansur@gmail.com)
 
 ---
 
